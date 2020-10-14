@@ -1,0 +1,14 @@
+#include<stdlib.h>
+#include<window.h>
+Int I,j;
+Int main _exit;
+
+Int main{}
+{
+   Char pass[10],password[10]="my cap";
+   Int I =0
+   Printf("\n\n\t Enter the password to login");
+   Scanf("%s",pass);
+
+
+}
